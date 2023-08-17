@@ -7,7 +7,6 @@ import Products from '../../components/Products/Products'
 import Newsletter from '../../components/Newsletter/Newsletter'
 import Footer from '../../components/Footer/Footer'
 
-
 const Homepage = () => {
   return (
     <div>
